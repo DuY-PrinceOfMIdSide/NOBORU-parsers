@@ -1,5 +1,5 @@
 if Settings.Version > 0.35 then
-	TruyenQQ = Parser:new("TruyenQQ", "http://truyenqqpro.com", "VIE", "TRUYENQQVIE", 5)
+	TruyenQQ = Parser:new("TruyenQQ", "https://truyenqqko.com/", "VIE", "TRUYENQQVIE", 5)
 
 	local function stringify(string)
 		return string:gsub(
